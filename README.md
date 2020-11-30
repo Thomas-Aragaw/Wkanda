@@ -1,2 +1,2 @@
 # Wkanda
-Wakanda is a quiz-like game that is focused on naming African city capitals and currencies. 
+Wakanda is a quiz-like game that is focused on naming African city capitals and currencies. The user will first put their name into the game and choose what they want to play from the three options including currency, capital, or mixed. Then according to the player mode, the questions will appear. If a user answers correctly the score pint will increase or if it is not correct it will decrease the point. If the user is wrong three times the user will be disqualified from the game. The highest score will always be saved, whoever scored the highest score is smart.
